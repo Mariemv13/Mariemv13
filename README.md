@@ -5,7 +5,7 @@
 
 - 🌱 J'apprends actuellement **HTML/CSS/JavaScript/NodeJS**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/Mariemv13](https://github .com/Mariemv13)
+- 👨‍💻 Tous mes projets sont disponibles sur https://github .com/Mariemv13
 
 - 📫 Comment me joindre **touremami2002@gmail.com**
 
