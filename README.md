@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je m'appelle Marieme Touré</h1>
-<h3 align="center">Une développeur passionnée du Sénégal</h3>
+<h3 align="center">Une développeur passionnée </h3>
 
 - 🔭 Je travaille actuellement sur **HTML/CSS /JavaScript**
 
@@ -7,9 +7,6 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur https://github .com/Mariemv13
 
-- 📫 Comment me joindre **touremami2002@gmail.com**
-
-<h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mami-toure-166455259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40)" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 </p>
